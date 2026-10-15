@@ -1,0 +1,66 @@
+{
+  "profile": {
+    "name": "Sample profile",
+    "samples": [],
+    "font_path": "",
+    "renderer": "font_variation_fallback"
+  },
+  "settings": {
+    "variation": true,
+    "ink_color": "#172a42"
+  },
+  "pages": [
+    {
+      "dpi": 300,
+      "source": "synthetic-sample",
+      "regions": [
+        {
+          "text": "Science Assignment",
+          "bbox": [
+            195,
+            175,
+            550,
+            40
+          ],
+          "baseline": 215,
+          "confidence": 1.0,
+          "protected": false,
+          "locked": false,
+          "status": "review"
+        },
+        {
+          "text": "1. Water changes from liquid to gas by evaporation.",
+          "bbox": [
+            195,
+            270,
+            980,
+            40
+          ],
+          "baseline": 310,
+          "confidence": 1.0,
+          "protected": false,
+          "locked": false,
+          "status": "review"
+        },
+        {
+          "text": "2. Plants use sunlight to make food.",
+          "bbox": [
+            195,
+            365,
+            800,
+            40
+          ],
+          "baseline": 405,
+          "confidence": 1.0,
+          "protected": false,
+          "locked": false,
+          "status": "review"
+        }
+      ],
+      "original_asset": "pages/page_001_original.png",
+      "preview_asset": "pages/page_001_preview.png"
+    }
+  ],
+  "format": "handwriting-replication-studio",
+  "version": 1
+}
